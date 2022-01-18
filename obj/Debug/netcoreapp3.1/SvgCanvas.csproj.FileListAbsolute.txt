@@ -1,0 +1,30 @@
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.exe
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.deps.json
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.runtimeconfig.json
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.dll
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.pdb
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.csproj.AssemblyReference.cache
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.dll
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.pdb
+C:\Users\FiercePC\Desktop\New folder\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.genruntimeconfig.cache
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.exe
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.deps.json
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.runtimeconfig.json
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.dll
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\bin\Debug\netcoreapp3.1\SvgCanvas.pdb
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.csproj.AssemblyReference.cache
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.dll
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.pdb
+C:\Users\FiercePC\Desktop\assignment_04_18383803\assignment_04_18383803\SvgCanvas\obj\Debug\netcoreapp3.1\SvgCanvas.genruntimeconfig.cache

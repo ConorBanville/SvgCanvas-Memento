@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+8XJ0B2RDdJePk7Jmhb8VtXN4dC47VUcAUzJWjn1YsMLQZpZTM7vABpOmsAIIjC83yNcCYMCiR3IIEyPaSHrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FiercePC\\Desktop\\assignment_04_18383803\\assignment_04_18383803\\SvgCanvas\\SvgCanvas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FiercePC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
